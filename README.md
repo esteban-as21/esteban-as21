@@ -1,4 +1,8 @@
-## Hi there 👋
+## Sobre mi 👀
+
+Estudiante de Grado Superior en Administracion de Sistemas Informaticos en Red - 🖥
+
+Con ganas de aprender programacion
 
 <!--
 **esteban-as21/esteban-as21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
